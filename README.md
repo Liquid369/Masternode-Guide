@@ -69,4 +69,6 @@ after pressing enter wait and when installation finish run `systemctl status Cal
 ***(For the next steps you need to have already 21 confirmation on “Payment to yourself “ created in first step)***
 
 * Goto Masternode tab and click on start all and clicking you node must show status  enabled
-# your CBR node is  running
+
+*your CBR node is running if you find any problem please contact us on discord
+
