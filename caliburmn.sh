@@ -50,7 +50,7 @@ elif (($choice == 2 ))
 	configure_systemd
 	blocks
 	important_information
-	echo -e "${GREEN}DogeNode Updated.${NC}"
+	echo -e "${GREEN}Calibur Updated.${NC}"
 elif (($choice == 3 ))
  then
 	backup
